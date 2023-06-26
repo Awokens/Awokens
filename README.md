@@ -1,1 +1,1 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Awokens)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Awokens/langs)](https://githubtrends.io)
